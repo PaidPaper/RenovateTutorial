@@ -2,7 +2,7 @@
 
 
 ## Introduction
-
+!
 Welcome to the Renovate hands-on tutorial.
 
 This tutorial is based on the Renovate GitHub App. you can also run Renovate as a CLI tool or a self-hosted application.
