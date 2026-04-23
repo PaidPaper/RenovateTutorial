@@ -2,6 +2,7 @@
 
 
 ## Introduction
+!
 
 Welcome to the Renovate hands-on tutorial.
 
